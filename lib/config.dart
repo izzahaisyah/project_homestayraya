@@ -1,3 +1,3 @@
 class CONFIG {
-  static const String server = "http://10.19.101.87/project_homestayraya";
+  static const String server = "http://172.20.10.6/homestayraya";
 }
